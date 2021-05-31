@@ -1,7 +1,12 @@
 import React from "react";
+import GardenCalendar from "./GardenCalendar";
 
 const App = (props) => {
-  return <div>Hello World</div>;
+  return (
+    <div>
+      <GardenCalendar />
+    </div>
+  );
 };
 
 export default App;
