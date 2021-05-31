@@ -1,6 +1,5 @@
 import React from "react";
 import GardenCalendar from "./GardenCalendar";
-
 const App = (props) => {
   return (
     <div>
